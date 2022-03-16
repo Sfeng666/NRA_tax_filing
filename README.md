@@ -25,7 +25,7 @@ Tip & Ref:
 
 ---
 ## Step2: 填写Form 8833, 用于claim tax treaty 
-注：如果已在Glacier里claim过treaty用于免除预扣税，则需附上Form 8223    
+注：如果已在Glacier里claim过treaty用于免除预扣税，则需附上Form 8233    
 
 Ref：
 1. [留学生报税如何利用 Tax Treaty 轻松省下1000刀？（内含Form 8833填写攻略）](https://taxpanda.com/tax-treaty/)
