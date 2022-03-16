@@ -6,7 +6,7 @@
 1. [留学生报税 2021年全解析](https://taxpanda.com/留学生报税/#如果留学生来美国没报过税，没收入，之前忘了交Form_8843会怎么样)
 2. [史上最全W-2报税工资单解析](https://taxpanda.com/w2是什么/)
 3. [奖学金免税【最全攻略】](https://taxpanda.com/奖学金免税/)
-4. [报税指南by UW CSSA](https://github.com/mzj14/prepare-tax-return/blob/master/报税指南.pdfhttps://github.com/mzj14/prepare-tax-return/blob/master/报税指南.pdf)
+4. [报税指南by UW CSSA](https://pages.cs.wisc.edu/~sh/报税指南.pdf)
 
 ## 开始之前
 
@@ -28,7 +28,7 @@ Tip & Ref:
 注：如果已在Glacier里claim过treaty用于免除预扣税，则需附上Form 8223    
 
 Ref：
-1. [留学生报税如何利用 Tax Treaty 轻松省下1000刀？（内含Form 8833填写攻略）](https://taxpanda.com/tax-treaty/#【Tax_Treaty_模版一】)
+1. [留学生报税如何利用 Tax Treaty 轻松省下1000刀？（内含Form 8833填写攻略）](https://taxpanda.com/tax-treaty/)
 2. [什么是 8233 和 8833 表格？](https://gonglue.us/form-8233-8833)
 
 ---
