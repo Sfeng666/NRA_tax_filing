@@ -25,14 +25,16 @@ Tip & Ref:
 
 ---
 ## Step2: 填写Form 8833, 用于claim tax treaty 
-注：如果已在Glacier里claim过treaty用于免除预扣税，则需附上Form 8233    
+Tip：
+1. 如果当前税年已在Glacier里claim过treaty用于免除预扣税，或已经向学校提交过Form 8233，则免去此项。    
+2. Form 8233和8833的区别：8233用于免除预扣税，交给<u>雇主/学校</u>；8833用于报税时申请免税条例，交给<u>IRS</u>。
 
 Ref：
 1. [留学生报税如何利用 Tax Treaty 轻松省下1000刀？（内含Form 8833填写攻略）](https://taxpanda.com/tax-treaty/)
 2. [什么是 8233 和 8833 表格？](https://gonglue.us/form-8233-8833)
 
 ---
-## Step3: 将GTP系统生成的Form 1040-NR和8843打印签字，连同Form 8843一同寄给IRS
+## Step3: 将GTP系统生成的Form 1040-NR和8843打印签字，连同Form 8833一同寄给IRS
 IRS地址:\
 Department of the Treasur\
 Internal Revenue Service\
