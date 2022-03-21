@@ -41,6 +41,9 @@ USA
 
 ---
 ## Step4: 使用[Wisconsin efile](https://www.revenue.wi.gov/Pages/WI-efile/home.aspx)系统填报Form 1-NPR（州税)
+Tip：
+每个box右上角有个小问号，鼠标悬停会有提示从哪里获取数据。大部分数据来自GTP生成的1040表格。
+
 Ref：
 1. [UW-Madison CS 硕士生的个人报税经历](https://github.com/mzj14/prepare-tax-return)
 2. [官方instruction](https://www.revenue.wi.gov/TaxForms2021/2021-Form1NPR-Inst.pdf)
