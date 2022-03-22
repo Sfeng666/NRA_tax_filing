@@ -54,3 +54,10 @@ Ref：
 ---
 所需时长：6-8 小时    
 本人报税身份：NRA(non-resident alian), 50% Research Assistant, 无fellowship/scholarship
+
+---
+## 另附：[2022年度净收入计算器 in R](https://github.com/Sfeng666/2022_tax_filing/blob/main/estimate_gross_income.R)
+input：line 3 - 8    
+output: 
+* line 26: income.gross.withhold (退税前净收入） = 总收入 - 预扣州税 - 预扣联邦税 - segregated fee - 保险
+* line 29: income.gross.withhold (退税后净收入） = 总收入 - 实际州税 - 实际联邦税 - segregated fee - 保险 
