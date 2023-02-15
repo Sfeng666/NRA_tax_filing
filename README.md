@@ -10,7 +10,9 @@
 
 ## 开始之前
 
-准备好2021税年相关表格，主要包括：
+本指南的联邦税部分仅适用基于UW Glacier系统的纸质版报税（邮寄税表给IRS）。然而众所周知，基于在线软件的电子版报税（efile）有众多优势：填写方便且退税快，据说几周内就能收到退税（纸质版往往需要长达几个月，还有寄丢/IRS接收税表失败的风险），收入低于$73000甚至可以[免费使用](https://apps.irs.gov/app/freeFile/)，联邦税和州税一起file还可以节省时间；efile的问题是主流软件如Turbotax，taxact只适用于resident alien (RA), 不支持non-resident alien (NRA)；而支持NRA efile的软件较少（已知仅有OLT和Sprintax)。有兴趣尝试efile的同学，请移步[此链接](https://www.luweicky.com/2021/03/oltefile-1040nr8843.html#核对税表并e-file)。
+
+无论采用纸质报税还是efile，需提前准备好2021税年相关表格，主要包括：
 1. Form W-2 (Where to get? MyUW - Payroll Information - Tax Statements - W-2 forms）
 2. Form 1098-T (Where to get? MyUW - Student Center - Financial Account - View 1098T)
 3. Form 1042-S (Where to get? 如有fellowship/scholarship,会收到邮件通知，从Glacier上下载)
@@ -53,7 +55,14 @@ Ref：
 
 ---
 所需时长：6-8 小时    
-本人报税身份：NRA(non-resident alian), 50% Research Assistant, 无fellowship/scholarship
+本人报税身份：NRA, 50% Research Assistant, 无fellowship/scholarship
+
+---
+## 如何寻求免费帮助？
+IRS官方热线基本无法接通人工服务，但可以致电IRS下属的[本地纳税人求助中心（Taxpayer Assistance Center TAC）](https://apps.irs.gov/app/office-locator/)，如Madison TAC的预约热线： (844)545-5640。虽然此号码主要用于预约现场咨询，相对简单的问题其实可以通过电话得到直接解答。
+
+## 如何查询退税进度？
+IRS官网的[Get Refund Status](https://sa.www4.irs.gov/irfof/lang/en/irfofgetstatus.jsp)向公众提供了退税进度查询，但许多同学反映无法从中获取退税进度的有效信息。由于TAC具有高于public access的系统权限，可以前往本地TAC（需电话预约）查询退税进度。
 
 ---
 ## 另附：[2022年度净收入计算器 in R](https://github.com/Sfeng666/2022_tax_filing/blob/main/estimate_gross_income.R)
@@ -61,3 +70,9 @@ input：modify values of line 3 - 8
 output: 
 * line 26: income.gross.withhold (退税前净收入） = 总收入 - 预扣州税 - 预扣联邦税 - segregated fee - 保险
 * line 29: income.gross.withhold (退税后净收入） = 总收入 - 实际州税 - 实际联邦税 - segregated fee - 保险 
+
+
+---
+免责声明：本文内容仅为一般性的介绍，不构成任何税务、法律和会计上的意见或建议，不得作为意见或建议以任何形式被依赖。本人对文中内容不负担任何形式的责任。并强烈建议您在有需要时向您的税务、法律和会计顾问咨询。
+
+Disclaimer: This material has been prepared for informational purposes only, and is not intended to provide, and should not be relied on for, tax, legal or accounting advice. I assume no liability for anything herein. You should consult your own tax, legal and accounting advisors if needed.
