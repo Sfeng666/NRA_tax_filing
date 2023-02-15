@@ -1,5 +1,8 @@
-# 2022_tax_filing
-2022税季  UW-Madison报税简明步骤 及资源汇总
+# UW-Madison NRA留学生报税简明步骤 及资源汇总
+
+```ruby
+更新于2023年2月,增加了efile选项。
+```
 
 ## 报税科普（推荐阅读）
 
@@ -7,10 +10,13 @@
 2. [史上最全W-2报税工资单解析](https://taxpanda.com/w2是什么/)
 3. [奖学金免税【最全攻略】](https://taxpanda.com/奖学金免税/)
 4. [报税指南by UW CSSA](https://pages.cs.wisc.edu/~sh/报税指南.pdf)
+5. [2021年Nonresident Alien报税小结](https://yo1995.github.io/life/2021-tax-season/)
 
 ## 开始之前
 
-本指南的联邦税部分仅适用基于UW Glacier系统的纸质版报税（邮寄税表给IRS）。然而众所周知，基于在线软件的电子版报税（efile）有众多优势：填写方便且退税快，据说几周内就能收到退税（纸质版往往需要长达几个月，还有寄丢/IRS接收税表失败的风险），收入低于$73000甚至可以[免费使用](https://apps.irs.gov/app/freeFile/)，联邦税和州税一起file还可以节省时间；efile的问题是主流软件如Turbotax，taxact只适用于resident alien (RA), 不支持non-resident alien (NRA)；而支持NRA efile的软件较少（已知仅有OLT和Sprintax)。有兴趣尝试efile的同学，请移步[此链接](https://www.luweicky.com/2021/03/oltefile-1040nr8843.html#核对税表并e-file)。
+本指南的联邦税部分仅适用基于UW Glacier系统的纸质版报税（邮寄税表给IRS）。然而众所周知，基于在线软件的电子版报税（efile）有众多优势：填写方便且退税快，据说几周内就能收到退税（纸质版往往需要长达几个月，还有寄丢/IRS接收税表失败的风险），收入低于$73000甚至可以[免费使用](https://apps.irs.gov/app/freeFile/)，联邦税和州税一起file还可以节省时间；efile的问题是主流软件如Turbotax，taxact只适用于resident alien (RA), 不支持non-resident alien (NRA)；而支持NRA efile的软件较少（已知仅有OLT和Sprintax)。有兴趣尝试efile的NRA同学，请移步以下攻略：
+1. [NRA留学生免费efile: OLT vs Sprintax](https://www.luweicky.com/2021/03/oltefile-1040nr8843.html#核对税表并e-file)
+2. [Non Resident留学生报税DIY指南（Sprintax篇)](https://www.dealmoon.com/guide/935542)
 
 无论采用纸质报税还是efile，需提前准备好2021税年相关表格，主要包括：
 1. Form W-2 (Where to get? MyUW - Payroll Information - Tax Statements - W-2 forms）
@@ -71,8 +77,5 @@ output:
 * line 26: income.gross.withhold (退税前净收入） = 总收入 - 预扣州税 - 预扣联邦税 - segregated fee - 保险
 * line 29: income.gross.withhold (退税后净收入） = 总收入 - 实际州税 - 实际联邦税 - segregated fee - 保险 
 
-
 ---
-免责声明：本文内容仅为一般性的介绍，不构成任何税务、法律和会计上的意见或建议，不得作为意见或建议以任何形式被依赖。本人对文中内容不负担任何形式的责任。并强烈建议您在有需要时向您的税务、法律和会计顾问咨询。
-
-Disclaimer: This material has been prepared for informational purposes only, and is not intended to provide, and should not be relied on for, tax, legal or accounting advice. I assume no liability for anything herein. You should consult your own tax, legal and accounting advisors if needed.
+免责声明：免责声明：本文仅是一般性的描述，不构成任何税务或法律建议。
