@@ -16,7 +16,7 @@
 
 本指南的联邦税部分仅适用基于UW Glacier系统的纸质版报税（邮寄税表给IRS）。然而众所周知，基于在线软件的电子版报税（efile）有众多优势：填写方便且退税快，据说几周内就能收到退税（纸质版往往需要长达几个月，还有寄丢/IRS接收税表失败的风险），收入低于$73000甚至可以[免费使用](https://apps.irs.gov/app/freeFile/)，联邦税和州税一起file还可以节省时间；efile的问题是主流软件如Turbotax，taxact只适用于resident alien (RA), 不支持non-resident alien (NRA)；而支持NRA efile的软件较少（已知仅有OLT和Sprintax)。有兴趣尝试efile的NRA同学，请移步以下攻略：
 1. [NRA留学生免费efile: OLT vs Sprintax](https://www.luweicky.com/2021/03/oltefile-1040nr8843.html#核对税表并e-file)
-2. [Non Resident留学生报税DIY指南（Sprintax篇)](https://www.dealmoon.com/guide/935542)
+2. [Non Resident留学生efile报税指南（Sprintax篇)](https://www.dealmoon.com/guide/935542)
 
 无论采用纸质报税还是efile，需提前准备好2021税年相关表格，主要包括：
 1. Form W-2 (Where to get? MyUW - Payroll Information - Tax Statements - W-2 forms）
