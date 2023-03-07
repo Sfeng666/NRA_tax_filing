@@ -1,10 +1,10 @@
 # UW-Madison NRA留学生报税简明步骤 及资源汇总
 
 ```ruby
-2023.02.15 efile后两天，IRS 显示已收到税表（received),正在等待approve和退款
+2023.03.08 联邦税refund已到账
+2023.03.01 州税refund已到账。我误报了standard deduction（不适用于NRA），申报金额高于实际应得退款，但财政部自动帮我更正了
+2023.02.15 本人efile后两天，IRS 和威斯康星州财政部均显示已收到税表（received),正在等待approve和退款
 2023.02.01 增加了efile选项。
-
-
 ```
 
 ## 报税科普（推荐阅读）
