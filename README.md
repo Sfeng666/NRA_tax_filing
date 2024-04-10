@@ -1,9 +1,10 @@
 # UW-Madison NRA留学生报税简明步骤 及资源汇总
 
 ```ruby
-2024.04.08: 于Sprintax提交2023年联邦税的e-file
-2024.04.01: bad news - Wisconsin state tax自2023报税年度取消了efile选项，需要去官网下载表格，手动填报。
-2024.04.01: good new - UW-Madison为全校的NRA同学们购买了价值$50的Sprintax线上报税系统，支持e-file联邦税,填报比OLT更简单，快捷。
+20224.04.10 寄出Wisconsin State Tax forms
+2024.04.08 于Sprintax提交2023年联邦税的e-file
+2024.04.01 bad news! Wisconsin state tax自2023报税年度取消了NRA的efile选项，目前只能采用第三方电子填报州税表（如Sprintax), 或者去官网下载表格，手动填报。
+2024.04.01 good new! UW为全校的NRA同学们购买了价值$50的Sprintax线上报税系统，支持e-file联邦税,填报比OLT更简单，快捷。
 2023.03.08 联邦税refund已到账
 2023.03.01 州税refund已到账。我误报了standard deduction（不适用于NRA），申报金额高于实际应得退款，但财政部自动帮我更正了
 2023.02.15 本人efile后两天，IRS 和威斯康星州财政部均显示已收到税表（received),正在等待approve和退款
@@ -56,9 +57,11 @@ Austin, TX 73301-0215\
 USA 
 
 ---
-## Step4: 使用[Wisconsin efile](https://www.revenue.wi.gov/Pages/WI-efile/home.aspx)系统填报Form 1-NPR（州税)
+## Step4: 使用[Wisconsin efile](https://www.revenue.wi.gov/Pages/WI-efile/home.aspx)系统填报Form 1-NPR（state tax form for non-residents & part-year resident)
 Tip：
 每个box右上角有个小问号，鼠标悬停会有提示从哪里获取数据。大部分数据来自GTP生成的1040表格。
+
+常见错误：[NRA不能claim standard deduction](https://www.revenue.wi.gov/TaxForms2023/2023-Form1NPR-inst.pdf#page=49)， 填写税表时需要注意！
 
 Ref：
 1. [UW-Madison CS 硕士生的个人报税经历](https://github.com/mzj14/prepare-tax-return)
