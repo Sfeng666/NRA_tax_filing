@@ -1,4 +1,4 @@
-# UW-Madison NRA留学生报税简明步骤 及资源汇总
+# NRA留学生报税简明步骤 及全网资源汇总（UW-Madison版）
 
 ```ruby
 20224.04.10 寄出Wisconsin State Tax forms
@@ -73,11 +73,17 @@ Ref：
 本人报税身份：NRA, 50% Research Assistant, 无fellowship/scholarship
 
 ---
+# Q & A
+
 ## 如何寻求免费帮助？
 IRS官方热线基本无法接通人工服务，但可以致电IRS下属的[本地纳税人求助中心（Taxpayer Assistance Center TAC）](https://apps.irs.gov/app/office-locator/)，如Madison TAC的预约热线： (844)545-5640。号码主要用于预约现场咨询，相对简单的问题其实可以通过电话得到直接解答。
 
 ## 如何查询退税进度？
 IRS官网的[Get Refund Status](https://sa.www4.irs.gov/irfof/lang/en/irfofgetstatus.jsp)向公众提供了退税进度查询，但许多同学反映无法从中获取退税进度的有效信息。由于TAC具有高于public access的系统权限，可以前往本地TAC（需电话预约）查询退税进度。
+
+## 已婚NRA有哪些报税选项？
+1. 如果[夫妻双方均为NRA](https://taxpanda.com/dual-status/#Dual_Status_Alien双重身份外国人的优势和限制情况)，则只能选择“Married Filing Separately” (适用于联邦税和州税)，不能选择“Married Filing Jointly”。
+2. 如果选择“Married Filing Separately”，Wisconsin州税表会要求提供配偶的SSN。如果配偶暂无SSN或者ITIN，则无法e-file州税，只能[在配偶SSN一栏填入“NRA”](https://ttlc.intuit.com/community/taxes/discussion/if-my-spouse-will-not-file-us-taxes-do-i-need-a-ssn-or-itin-they-have-no-income-and-have-never-been/00/2847588)，并寄纸质版到州税办公室。
 
 ---
 ## 另附：[2022年度净收入计算器 in R](https://github.com/Sfeng666/2022_tax_filing/blob/main/estimate_gross_income.R)
